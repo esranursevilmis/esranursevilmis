@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a senior Computer Engineering Student at Bursa Technical University in Turkey. I am currently learning database management, system design and Android development. I'm on a autodidactive journey and passionate about learning new things.
+# I am a senior Computer Engineering Student at Bursa Technical University in Turkey. I am currently learning database management, system design and Android development. I'm on a autodidactive journey and passionate about learning new things.
 
 
 ## 🌐 Socials:
